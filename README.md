@@ -10,10 +10,12 @@ Artificial Intelligence is a broad field of computer science that focuses on cre
 
 - Conventional AI Systems
 
-  asdfa
+  Conventional AI Systems trains by learning from a set of input data and performs predictions. 
   
-- asdfa
+- Generative AI Systems
 
+  Generative AI Systems needs tremendous amounts of input data. Based upon the training data, using the neural networks behind the scenes, Generative AI systems would be able to generate new content.
+  
 ### How would machines be able to perform tasks that require human intelligence?
 
 Machines would be able to perform these tasks by leveraging **Machine Learing**
@@ -39,6 +41,12 @@ Deep Learning is a subset of Machine Learning that learns using the concept of n
 *Deep Learning is a subset of Machine Learning*
 
 *Machine Learning is a subset of Artificial Intelligence*
+
+## Chat GPT
+
+### What is ChatGPT?
+
+ChatGPT is a large language model (LLM). It is designed with natural language understanding and generation. It can handle a conversational context. 
 
 ## Where does Generative AI fits into this Artificial Intelligence Landscape?
 
