@@ -8,11 +8,11 @@ Artificial Intelligence is a broad field of computer science that focuses on cre
 
 ### What are the different types of AI Systems
 
-- Conventional AI Systems
+- Conventional AI Systems (Discriminative)
 
   Conventional AI Systems trains by learning from a set of input data and performs predictions. 
   
-- Generative AI Systems
+- Generative AI Systems (Generative)
 
   Generative AI Systems needs tremendous amounts of input data. Based upon the training data, using the neural networks behind the scenes, Generative AI systems would be able to generate new content.
   
@@ -88,6 +88,19 @@ The brains behind LLM is a neural network called Transformer. Transformer is ver
 - Language translation - expand communication
 - Text summarization - reduce lengthy text
 - Q&A - The most prominent use case
+
+#### Limitations of LLMs
+- Finite Training Data
+  
+  LLMs even though they got trained on large training set, they are trained on finite training data and they might not be up to date with latest updates or information.
+
+- Stochastic Nature
+
+  LLMs are stochastic (random) due to random initialization, noisy training data and complex computations. There is a high probability for their output to be not correct.
+
+- Plausible sounding but incorrect answers
+
+  As said above, the output from LLMs can be incorrect
 
 ### Prompt Engineering
 Prompt is a specific question, command or an input that we provide to an AI system to request a particular response, information or action. 
